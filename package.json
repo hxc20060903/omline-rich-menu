@@ -1,0 +1,23 @@
+{
+  "name": "omline-rich-menu",
+  "version": "1.0.0",
+  "description": "Enable business process automation via LINE rich menu customization",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hxc20060903/omline-rich-menu.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hxc20060903/omline-rich-menu/issues"
+  },
+  "homepage": "https://github.com/hxc20060903/omline-rich-menu#readme",
+  "dependencies": {
+    "@types/node": "^16.3.1"
+  }
+}
